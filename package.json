@@ -1,6 +1,6 @@
 {
   "name": "simple-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nice message library",
   "repository": {
     "url": "https://github.com/moltco/simple-package.git"
