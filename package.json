@@ -8,12 +8,9 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": [
-    "src"
-  ],
   "scripts": {
     "build": "tsc",
-    "test": "jest"
+    "test": "vitest"
   },
   "keywords": [],
   "author": "Moltco",
