@@ -1,0 +1,26 @@
+{
+  "name": "simple-package",
+  "version": "1.0.3",
+  "description": "Nice message library",
+  "repository": {
+    "url": "https://github.com/moltco/simple-package.git"
+  },
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Moltco",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
